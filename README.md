@@ -4,8 +4,8 @@ pelo usuário), e depois mostrar as áreas destas figuras na
 mesma ordem em que foram digitadas.
 
 # EXEMPLO INPUTS    
--Inputs estão entre asteriscos
-Enter the number of shapes: *2*
+-Inputs estão entre asteriscos <br/>
+Enter the number of shapes: *2* <br/>
 Shape #1 data:
 Rectangle or Circle (r/c)? *r*
 Color (Black/Blue/Red): *Black*
