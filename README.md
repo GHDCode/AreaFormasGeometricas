@@ -1,9 +1,9 @@
-#DESCRIÇÃO
+# DESCRIÇÃO
 Programa para ler os dados de N figuras (N fornecido
 pelo usuário), e depois mostrar as áreas destas figuras na
 mesma ordem em que foram digitadas.
 
-#EXEMPLO INPUTS    
+# EXEMPLO INPUTS    
 -Inputs estão entre asteriscos
 Enter the number of shapes: *2*
 Shape #1 data:
@@ -16,7 +16,7 @@ Rectangle or Circle (r/c)? *c*
 Color (Black/Blue/Red): *Red*
 Radius: *3.0*
 
-#OUTPUT
+# OUTPUT
 SHAPE AREAS:
 20.00
 28.2
