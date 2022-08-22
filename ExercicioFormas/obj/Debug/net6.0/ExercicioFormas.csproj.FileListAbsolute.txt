@@ -1,0 +1,15 @@
+E:\ws-vs2022\ExercicioFormas\ExercicioFormas\bin\Debug\net6.0\ExercicioFormas.exe
+E:\ws-vs2022\ExercicioFormas\ExercicioFormas\bin\Debug\net6.0\ExercicioFormas.deps.json
+E:\ws-vs2022\ExercicioFormas\ExercicioFormas\bin\Debug\net6.0\ExercicioFormas.runtimeconfig.json
+E:\ws-vs2022\ExercicioFormas\ExercicioFormas\bin\Debug\net6.0\ExercicioFormas.dll
+E:\ws-vs2022\ExercicioFormas\ExercicioFormas\bin\Debug\net6.0\ExercicioFormas.pdb
+E:\ws-vs2022\ExercicioFormas\ExercicioFormas\obj\Debug\net6.0\ExercicioFormas.csproj.AssemblyReference.cache
+E:\ws-vs2022\ExercicioFormas\ExercicioFormas\obj\Debug\net6.0\ExercicioFormas.GeneratedMSBuildEditorConfig.editorconfig
+E:\ws-vs2022\ExercicioFormas\ExercicioFormas\obj\Debug\net6.0\ExercicioFormas.AssemblyInfoInputs.cache
+E:\ws-vs2022\ExercicioFormas\ExercicioFormas\obj\Debug\net6.0\ExercicioFormas.AssemblyInfo.cs
+E:\ws-vs2022\ExercicioFormas\ExercicioFormas\obj\Debug\net6.0\ExercicioFormas.csproj.CoreCompileInputs.cache
+E:\ws-vs2022\ExercicioFormas\ExercicioFormas\obj\Debug\net6.0\ExercicioFormas.dll
+E:\ws-vs2022\ExercicioFormas\ExercicioFormas\obj\Debug\net6.0\refint\ExercicioFormas.dll
+E:\ws-vs2022\ExercicioFormas\ExercicioFormas\obj\Debug\net6.0\ExercicioFormas.pdb
+E:\ws-vs2022\ExercicioFormas\ExercicioFormas\obj\Debug\net6.0\ExercicioFormas.genruntimeconfig.cache
+E:\ws-vs2022\ExercicioFormas\ExercicioFormas\obj\Debug\net6.0\ref\ExercicioFormas.dll
